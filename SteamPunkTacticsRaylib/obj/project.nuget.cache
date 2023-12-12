@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7vdKP/+YaUnaRNMNgX8rIH+iZTnx8IiQqVA1g21sKIJwNd7VzlDCo6z+YoRoK6/JDIPLmDE535C1mLKvc2bTjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25YasinS\\Documents\\Other\\SteamPunkTacticsRaylib\\SteamPunkTacticsRaylib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25YasinS\\.nuget\\packages\\raylib-cs\\5.0.0\\raylib-cs.5.0.0.nupkg.sha512",
+    "C:\\Users\\25YasinS\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
